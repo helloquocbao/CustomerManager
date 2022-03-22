@@ -18,7 +18,7 @@
 			<th>E-mail</th>
 			<th>Address</th>
 		</tr>
-		<c:forEach items="${result}" var="customer">
+		 <c:forEach items="${result}" var="customer">
 		<tr>
 			<td>${customer.id}</td>
 			<td>${customer.name}</td>

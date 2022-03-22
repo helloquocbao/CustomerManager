@@ -9,7 +9,7 @@
 <title>Edit Customer</title>
 </head>
 <body>
-	<div align="center">
+	 <div align="center">
 		 <h2>Edit Customer</h2>
 		<form:form action="save" method="post" modelAttribute="customer">
 			<table border="0" cellpadding="5">
